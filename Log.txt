@@ -1,0 +1,15 @@
+2009-11-06		Title Screen
+2009-11-07		Map16 changes, global GFX changes, ExGFX80 inserted
+2009-11-07_13-21	Reset patch, TwoItemCarryGlitchFix patch, Time Fix patch
+2009-11-07_13-40	Hex edits (direction coins, overworld music after boss, music while paused)
+2009-12-14		Levels 50-54
+2009-12-15		Level 50
+
+2011-11-02		Before ExAnimating munchers
+2011-11-07		Before disabling midway point powerup
+2011-11-09		*shrug*
+2011-11-10		Graphics changes for credits
+2011-11-15		Finished a level or two
+2011-11-16		Prior to patching P-balloon/Cloud fix patch
+2011-11-18		Before inserting Shana face tileset and map16
+2011-11-24		Updated some levels
